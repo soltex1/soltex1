@@ -11,7 +11,7 @@
 - [Covid Application - Help Medical Professionals](https://medic-rest.herokuapp.com/) (2020) 
 
 ### 📄 Posts
-- [Google Cloud SQL Proxy and Process Substitution](https://soltex.me/2021/04/02/google-cloud-sql-proxy-and-process-substitution.html) (2021)
+- [Google Cloud SQL Proxy and Process Substitution](https://www.soltex.me/2021/04/02/google-cloud-sql-proxy-and-process-substitution.html) (2021)
 
 #### 📚 Currently reading
 
